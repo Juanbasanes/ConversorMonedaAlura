@@ -43,8 +43,8 @@ Como un extra podemos implementarle más opciones al conversor como puede ser:
 
 1. Menu
 
-  (https://github.com/Juanbasanes/ConversorMonedaAlura/assets/107370338/37b41904-74a5-4a4d-973f-a945f36fab95)
-  (https://github.com/Juanbasanes/ConversorMonedaAlura/assets/107370338/c7e604d0-d25a-4486-a4e3-b8b5d55f9e98)
+https://github.com/Juanbasanes/ConversorMonedaAlura/assets/107370338/37b41904-74a5-4a4d-973f-a945f36fab95
+https://github.com/Juanbasanes/ConversorMonedaAlura/assets/107370338/c7e604d0-d25a-4486-a4e3-b8b5d55f9e98
 
 2. Conversor de Divisas
 
