@@ -43,19 +43,17 @@ Como un extra podemos implementarle más opciones al conversor como puede ser:
 
 1. Menu
 
-    [Screenshot 2023-07-23 at 3 34 31 PM](https://github.com/Juanbasanes/ConversorMonedaAlura/assets/107370338/37b41904-74a5-4a4d-973f-a945f36fab95)
-    ![Screenshot 2023-07-23 at 3 35 17 PM](https://github.com/Juanbasanes/ConversorMonedaAlura/assets/107370338/c7e604d0-d25a-4486-a4e3-b8b5d55f9e98)
+  (https://github.com/Juanbasanes/ConversorMonedaAlura/assets/107370338/37b41904-74a5-4a4d-973f-a945f36fab95)
+  (https://github.com/Juanbasanes/ConversorMonedaAlura/assets/107370338/c7e604d0-d25a-4486-a4e3-b8b5d55f9e98)
 
 2. Conversor de Divisas
 
-![Screenshot 2023-07-23 at 3 35 38 PM](https://github.com/Juanbasanes/ConversorMonedaAlura/assets/107370338/eeb9e1bf-0240-410e-a03b-48c4883d8c5d)
-![Screenshot 2023-07-23 at 3 35 56 PM](https://github.com/Juanbasanes/ConversorMonedaAlura/assets/107370338/1db785bf-4f58-4f99-904f-72b45899bebe)
-![Screenshot 2023-07-23 at 3 36 12 PM](https://github.com/Juanbasanes/ConversorMonedaAlura/assets/107370338/24e1a009-b242-4951-99c8-13f32445582f)
-[Screenshot 2023-07-23 at 3 34 31 PM](https://github.com/Juanbasanes/ConversorMonedaAlura/assets/107370338/37b41904-74a5-4a4d-973f-a945f36fab95)
-[Screenshot 2023-07-23 at 3 34 31 PM](https://github.com/Juanbasanes/ConversorMonedaAlura/assets/107370338/37b41904-74a5-4a4d-973f-a![Uploading Screenshot 2023-07-23 at 3.36.57 PM.png…]()
-945f36fab95)
-![Screenshot 2023-07-23 at 3 37 15 PM](https://github.com/Juanbasanes/ConversorMonedaAlura/assets/107370338/35ce77b4-68ca-4026-a76f-a0fd748b8cce)
-![Screenshot 2023-07-23 at 3 37 28 PM](https://github.com/Juanbasanes/ConversorMonedaAlura/assets/107370338/904fd0b9-b855-4154-b582-1ec5ca426f6c)
+(https://github.com/Juanbasanes/ConversorMonedaAlura/assets/107370338/eeb9e1bf-0240-410e-a03b-48c4883d8c5d)
+(https://github.com/Juanbasanes/ConversorMonedaAlura/assets/107370338/1db785bf-4f58-4f99-904f-72b45899bebe)
+(https://github.com/Juanbasanes/ConversorMonedaAlura/assets/107370338/24e1a009-b242-4951-99c8-13f32445582f)
+(https://github.com/Juanbasanes/ConversorMonedaAlura/assets/107370338/37b41904-74a5-4a4d-973f-a945f36fab95)
+(https://github.com/Juanbasanes/ConversorMonedaAlura/assets/107370338/35ce77b4-68ca-4026-a76f-a0fd748b8cce)
+(https://github.com/Juanbasanes/ConversorMonedaAlura/assets/107370338/904fd0b9-b855-4154-b582-1ec5ca426f6c)
 
 3. Conversor de Distancia
 
@@ -63,7 +61,7 @@ Como un extra podemos implementarle más opciones al conversor como puede ser:
 
 4. Conversor de Temperatura
 
-![Screenshot 2023-07-23 at 3 38 35 PM](https://github.com/Juanbasanes/ConversorMonedaAlura/assets/107370338/adfc77b5-847d-47b9-a21e-d5d8e856682d)
-![Screenshot 2023-07-23 at 3 38 49 PM](https://github.com/Juanbasanes/ConversorMonedaAlura/assets/107370338/962740fd-bbdd-4b8e-ae00-16e203c9663f)
-[Screenshot 2023-07-23 at 3 39 06 PM](https://github.com/Juanbasanes/ConversorMonedaAlura/assets/107370338/c541145a-8895-4cc3-8f67-12e63f98c9d6)
+(https://github.com/Juanbasanes/ConversorMonedaAlura/assets/107370338/adfc77b5-847d-47b9-a21e-d5d8e856682d)
+(https://github.com/Juanbasanes/ConversorMonedaAlura/assets/107370338/962740fd-bbdd-4b8e-ae00-16e203c9663f)
+(https://github.com/Juanbasanes/ConversorMonedaAlura/assets/107370338/c541145a-8895-4cc3-8f67-12e63f98c9d6)
 
