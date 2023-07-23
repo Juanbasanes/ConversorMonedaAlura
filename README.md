@@ -61,9 +61,11 @@ Como un extra podemos implementarle más opciones al conversor como puede ser:
 
 4. Conversor de Temperatura
 
-![Conversor de Temperatura](https://github.com/Juanbasanes/ConversorMonedaAlura/assets/107370338/9f20869c-34bc-4d9e-aaa4-37de915f285d)
-![Conversor de Temperatura](https://github.com/Juanbasanes/ConversorMonedaAlura/assets/107370338/c23ce4dc-612b-40ab-9cd4-e4a824869168)
-![Conversor de Temperatura](https://github.com/Juanbasanes/ConversorMonedaAlura/assets/107370338/50812244-5180-4efa-9e17-d17a5cc8d235)
+![Screenshot 2023-07-23 at 4 04 08 PM](https://github.com/Juanbasanes/ConversorMonedaAlura/assets/107370338/6a6fb517-75eb-4b43-a7f0-2c8e861e4c0d)
+![Screenshot 2023-07-23 at 4 04 24 PM](https://github.com/Juanbasanes/ConversorMonedaAlura/assets/107370338/2165cc17-dfb6-4c42-b021-ac1d25f66937)
+![Screenshot 2023-07-23 at 4 04 37 PM](https://github.com/Juanbasanes/ConversorMonedaAlura/assets/107370338/7ddaf0b2-d36b-437e-a12e-bb0768480ff0)
+![Screenshot 2023-07-23 at 4 04 46 PM](https://github.com/Juanbasanes/ConversorMonedaAlura/assets/107370338/354343d9-dd7b-432d-9874-1b88eb090cb4)
+
 
 5. Manejo de Errores.
 
