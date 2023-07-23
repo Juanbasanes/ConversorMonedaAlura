@@ -22,7 +22,7 @@ public class Dialogos {
     private static void mostrarMensaje(String mensaje, String titulo) {
         JOptionPane.showMessageDialog(null, mensaje, titulo, JOptionPane.INFORMATION_MESSAGE);
     }
-    
+
     // Muestra un mensaje de error en un cuadro de dialogo
     public static void mostrarMensajeError(String mensaje) {
         mostrarMensaje(mensaje, "Error");
@@ -74,7 +74,7 @@ public class Dialogos {
         String seleccion = (String) JOptionPane.showInputDialog(null, mensaje, "Moneda", JOptionPane.QUESTION_MESSAGE, null, opcionesFiltradas.toArray(), opcionesFiltradas.get(0));
 
         if (seleccion == null && !confirmarNuevaConversion()) {
-            return null; // Si se selecciona ancelar no se continua
+            return null; // Si se selecciona cancelar no se continua
         }
 
         return seleccion;
@@ -87,7 +87,7 @@ public class Dialogos {
                 .filter(opcion -> !opcion.equalsIgnoreCase(unidadExcluida))
                 .collect(Collectors.toList());
 
-        String seleccion = (String) JOptionPane.showInputDialog(null, mensaje, "Moneda", JOptionPane.QUESTION_MESSAGE, null, opcionesFiltradas.toArray(), opcionesFiltradas.get(0));
+        String seleccion = (String) JOptionPane.showInputDialog(null, mensaje, "Unidad de Distancia", JOptionPane.QUESTION_MESSAGE, null, opcionesFiltradas.toArray(), opcionesFiltradas.get(0));
 
         if (seleccion == null && !confirmarNuevaConversion()) {
             return null; // Si se selecciona cancelar no se continua
@@ -103,7 +103,7 @@ public class Dialogos {
                 .filter(opcion -> !opcion.equalsIgnoreCase(escalaExcluida))
                 .collect(Collectors.toList());
 
-      String seleccion = (String) JOptionPane.showInputDialog(null, mensaje, "Moneda", JOptionPane.QUESTION_MESSAGE, null, opcionesFiltradas.toArray(), opcionesFiltradas.get(0));
+        String seleccion = (String) JOptionPane.showInputDialog(null, mensaje, "Escala de Temperatura", JOptionPane.QUESTION_MESSAGE, null, opcionesFiltradas.toArray(), opcionesFiltradas.get(0));
 
         if (seleccion == null && !confirmarNuevaConversion()) {
             return null; // Si se selecciona cancelar no se continua
